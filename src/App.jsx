@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import Movie from './assets/Movie'
 import Ratatouille from './assets/Ratatouille.jpeg'
-import Hinana from './assets/Hinana.jpeg'
+import Hinana from './assets/HiNana.jpeg'
 import Omg from './assets/Omg.jpeg'
 import Premam from './assets/Premam.jpeg'
 import Remo from './assets/Remo.jpeg'
@@ -15,7 +15,7 @@ import Conjuring from './assets/Conjuring.jpg'
 import Priyamanavale from './assets/Priyamanavale.jpeg'
 import FinalDestination from './assets/FinalDestination.jpg'
 import TrainToBusan from './assets/TrainToBusan.jpg'
-import WithLove from './assets/withLove.jpeg'
+import WithLove from './assets/WithLove.jpeg'
 
 
 
